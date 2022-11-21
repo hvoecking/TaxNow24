@@ -12,6 +12,11 @@ This service is build with poetry.
 make install
 ```
 
+### Ensure setup is working and ready for the challenge
+```bash
+make check-setup
+```
+
 ## Tests and checks
 To run all tests and checks:
 ```bash
